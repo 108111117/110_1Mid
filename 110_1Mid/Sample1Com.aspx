@@ -10,6 +10,12 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <asp:Label ID="lb_Msg" runat="server" Text=""></asp:Label><br/>
+            <asp:Label ID="tb_Id" runat="server" Text=""></asp:Label><br/>
+            <asp:Label ID="tb_Ps" runat="server" Text=""></asp:Label><br/>
+            <asp:Label ID="cl_Inter" runat="server" Text=""></asp:Label><br/>
+            <asp:Label ID="hd_Num" runat="server" Text=""></asp:Label><br/>
+            <asp:Label ID="tb_Num" runat="server" Text=""></asp:Label><br/>
         </div>
     </form>
 </body>
